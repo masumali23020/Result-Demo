@@ -9,7 +9,7 @@ function App() {
       
        
       <div className="felx flex-col justify-center items-center space-y-1 mb-3">
-      <h2 className=" text-[12px] sm:text-xs  text-foreground uppercase dark:text-neufortext-foreground">ওয়াজেদ আলী নূরানীয়া হাফেজীয়া মাদ্রাসা </h2>
+      <h2 className=" text-[12px] sm:text-lg  text-foreground uppercase dark:text-neufortext-foreground">ওয়াজেদ আলী নূরানীয়া হাফেজীয়া মাদ্রাসা </h2>
       <p className="text-[10px] sm:text-xs  text-foreground uppercase dark:text-neufortext-foreground/70">
       দ্বিতীয় সাময়িক পরীক্ষা ফলাফল - <span className="text-fuchsia-200">2024</span>
       </p>
